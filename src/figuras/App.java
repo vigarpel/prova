@@ -1,3 +1,4 @@
+// rama segona
 package figuras;
 
 import java.util.Scanner;
